@@ -5,9 +5,9 @@ excerpt: “GLUCOSE 논문에 대해 알아보자.”
 categories:
   - Machine Learning
 tags:
-  - [NLP, Common sense]
+  - \[NLP, Common sense]
 
-permalink: /machine-learning/
+permalink: /machine-learning/glucose/
 date: 2022-04-22
 ---
 
@@ -68,7 +68,3 @@ date: 2022-04-22
 뿐만 아니라, GLUCOSE는 commonsense knowledge를 세상에 관한 ‘미니 이론’이라고 할 수 있는 **‘반정형 추론 법칙(semi-structured inference rules)'** 의 형태로 인코딩하고, 각각은 구체적인 이야기에 근거한다는 특징도 있다.
 
 이게 무슨 말일까? 다음 포스팅에서 계속해보자.
-
-
-[image-1]:	/assets/images/posts_img/paper-review-glucose/GLUCOSE-main-image.jpeg
-[image-2]:	/assets/images/posts_img/paper-review-glucose/girl-and-car.png
