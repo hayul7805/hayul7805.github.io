@@ -1,13 +1,13 @@
 ---
-title: "Paper Review: GLUCOSE-GeneraLized and COntextualized Story Explanations (2)"
+title: "[Paper Review] GLUCOSE-GeneraLized and COntextualized Story Explanations (2)"
 excerpt: "GLUCOSE 논문에 대해 알아보자."
 
 categories:
-  - Machine Learning
+  - Paper review
 tags:
   - \[NLP, Common sense]
 
-permalink: /machine-learning/glucose-2/
+permalink: /paper-review/glucose-2/
 toc: true
 toc\_sticky: true
 date: 2022-04-22

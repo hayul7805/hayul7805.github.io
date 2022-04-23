@@ -27,11 +27,11 @@ categories:
     url: /categories/python/
   - title: "Algorithm"
     url: /categories/algorithm/
-  - title: "Web"
-    url: /categories/web/
+  - title: "Projects"
+    url: /categories/projects/
   - title: "Git"
     url: /categories/git/
-  - title: "GitHub Blog"
-    url: /categories/github-blog/
+  - title: "Paper review"
+    url: /categories/paper-review/
   - title: "Machine Learning"
     url: /categories/machine-learning/
