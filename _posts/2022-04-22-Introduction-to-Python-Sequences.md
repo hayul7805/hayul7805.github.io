@@ -1,5 +1,18 @@
-# Introduction to Python Sequences
+---
+title: "Introduction to Python Sequences"
 
+excerpt: "Python Sequences에 대해 알아보자."
+
+categories:
+  - Python
+tags:
+  - \[python]
+
+permalink: /python/basic-1/
+toc: true
+toc\_sticky: true
+date: 2022-04-22
+---
 > Before we start there are some key phrases that will be useful to understand:
 
 - **Mutable**: This means that the item can be changed once it has been created. The opposite of this is immutable which means that once the object has been created it cannot be changed. This affects how the data structure can or cannot be used later on in your code.
@@ -22,7 +35,7 @@ The second type of data structure in Python that we often come across is that of
 - **Indexable:** We can access items based on their index.
 - **Can contain duplicates:** items with the same value can be in this data structure.
 
-## **Sets** { }
+## **Sets** 
 
 Following this, another similar data structure to lists again is the set. The main characteristics of this is:
 
@@ -47,7 +60,7 @@ print(vege)
 {'potato', 'aubergine', 'courgette'}
 ```
 
-## Dictionary { }
+## **Dictionary**
 
 Finally, another data structure that you would often come across in programming in Python would be that of a dictionary. These have the characteristics of:
 
